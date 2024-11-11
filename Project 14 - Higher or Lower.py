@@ -1,7 +1,7 @@
 # import all import functions needed
 import random
-import art
-import game_data
+# import art
+# import game_data
 
 data = game_data.data
 
