@@ -1,4 +1,4 @@
-import art
+# import art
 print(art.logo)
 
 def add(n1, n2):
