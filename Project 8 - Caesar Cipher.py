@@ -1,4 +1,4 @@
-import art
+# import art
 
 
 # TODO-1: Import and print the logo from art.py when the program starts.
